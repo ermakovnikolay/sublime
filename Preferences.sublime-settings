@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/Monokai JSON+/Monokai JSON+.tmTheme",
+	"detect_indentation": false,
+	"font_size": 11,
+	"ignored_packages":	[],
+	"soda_classic_tabs": true,
+	"soda_folder_icons": true,
+	"theme": "Soda Light 3.sublime-theme",
+	"word_wrap": "true"
+}
